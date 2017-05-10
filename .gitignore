@@ -12,3 +12,6 @@ description-pak
 doc-pak
 *.deb
 *.tgz
+*.pkg.tar.xz
+/pkg
+/src
