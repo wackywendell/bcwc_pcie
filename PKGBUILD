@@ -11,7 +11,7 @@ source=(dkms.conf fthd_buffer.c fthd_buffer.h fthd_ddr.c fthd_ddr.h
     fthd_debugfs.c fthd_debugfs.h fthd_drv.c fthd_drv.h fthd_hw.c fthd_hw.h
     fthd_isp.c fthd_isp.h fthd_reg.h fthd_ringbuf.c fthd_ringbuf.h fthd_v4l2.c
     fthd_v4l2.h Makefile)
-md5sums=('5b99439902c4a400a6057ee6b4b13898'
+md5sums=('bcafb91c48b68ece00d2d75720e6ff96'
          '38c497f2031bb7ffc67b645a2b4d2535'
          'db515c284566a9bf4fa70c1eb0e11561'
          'd796447970049fe0892abfdfdec8ea93'
